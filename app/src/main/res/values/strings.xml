@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WB_Week_Seven_2</string>
+    <string name="super_heroes">Super Heroes</string>
+    <string name="full_name">Full name</string>
+    <string name="place_of_birth">Place of birth</string>
+    <string name="gender">Gender</string>
+    <string name="race">Race</string>
+    <string name="intelligence">Intelligence</string>
+    <string name="strength">Strength</string>
+    <string name="speed">Speed</string>
+    <string name="durability">Durability</string>
+    <string name="power">Power</string>
+    <string name="combat">Combat</string>
+    <string name="about">О приложении</string>
+    <string name="name">Developer: Dana Keli</string>
+    <string name="date">Date of creation: 30.05.2022</string>
+    <string name="link">https://github.com/DanaKeli/WB_Week_Eight_2_SuperHeroes</string>
+    <string name="btn_info">Info</string>
+</resources>
